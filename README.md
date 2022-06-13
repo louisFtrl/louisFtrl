@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @louisFtrl
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python and mysql
-- 💞️ I’m looking to collaborate on various project regarding data analytics
+- 🌱 I’m currently learning python and SQL
+- 💞️ I’m looking to collaborate on various project regarding data analytics & data engineering
 - 📫 Reach me by mail at louis.foutrel@outlook.fr
 
 <!---
