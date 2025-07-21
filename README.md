@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @louisFtrl
-- 👀 I’m interested in data science
-- 🌱 I’m growing my skills in python and SQL
+- 👀 I’m interested in data & software engineering 
+- 🌱 I’m growing my skills in python, SQL, docker & cloud computing
 - 💞️ I’m looking to collaborate on various project regarding data analytics & data engineering
 - 📫 Reach me by mail at louis.foutrel@outlook.fr
 
